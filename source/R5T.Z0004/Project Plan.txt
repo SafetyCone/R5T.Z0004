@@ -1,3 +1,6 @@
 R5T.Z0004 - Example values for all purposes.
 
-GOALS:
+
+See also:
+
+* R5T.B0005 - IExample base.
