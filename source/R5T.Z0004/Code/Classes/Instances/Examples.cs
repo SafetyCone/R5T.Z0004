@@ -3,13 +3,13 @@ using System;
 
 namespace R5T.Z0004
 {
-    public class Example : IExample
+    public class Examples : IExamples
     {
         #region Infrastructure
 
-        public static Example Instance { get; } = new();
+        public static Examples Instance { get; } = new();
 
-        private Example()
+        private Examples()
         {
         }
 
