@@ -11,6 +11,6 @@ namespace R5T.Z0004
         /// <summary>
         /// 2023-03-31 15:18:17.
         /// </summary>
-        public DateTime Example => new DateTime(2023, 03, 31, 15, 18, 17);
+        public DateTime Example => new(2023, 03, 31, 15, 18, 17);
     }
 }
