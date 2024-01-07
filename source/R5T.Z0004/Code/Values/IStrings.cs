@@ -11,6 +11,8 @@ namespace R5T.Z0004
 	[ValuesMarker]
 	public partial interface IStrings : IValuesMarker
 	{
+		public string ExampleString => "ExampleString";
+
 		public string String01 => "String01";
 		public string String02 => "String02";
 		public string String03 => "String03";
