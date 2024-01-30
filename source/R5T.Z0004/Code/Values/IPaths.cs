@@ -2,12 +2,15 @@ using System;
 
 using R5T.T0131;
 
-using Glossary = R5T.Y0000.Glossary.ForPaths;
+using Glossary = R5T.Y0006.Glossary.ForPaths;
 
 
 namespace R5T.Z0004
 {
-	[ValuesMarker]
+    /// <summary>
+    /// OBSOLETE - See R5T.Z0066.
+    /// </summary>
+    [ValuesMarker]
 	public partial interface IPaths : IValuesMarker
 	{
 		/// <summary>

@@ -5,10 +5,12 @@ using R5T.T0131;
 
 namespace R5T.Z0004
 {
-	/// <summary>
-	/// Example strings.
-	/// </summary>
-	[ValuesMarker]
+    /// <summary>
+    /// <para>OBSOLETE - See R5T.Z0066.</para>
+	/// 
+    /// Example strings.
+    /// </summary>
+    [ValuesMarker]
 	public partial interface IStrings : IValuesMarker
 	{
 		public string ExampleString => "ExampleString";
